@@ -1,4 +1,4 @@
-This was a capstone EDA project on World-Bank-Analysis for analysing educational trends across various countries especially BRICS.
+This was a capstone EDA project on World-Bank-Analysis for analysing educational trends across various countries especially BRICS(Brazil,Russia,India,China,SouthAfrica)
 
 The data used is directly from the site of World Bank.
 
