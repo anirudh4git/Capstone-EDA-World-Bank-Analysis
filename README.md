@@ -80,4 +80,4 @@ I was able to provide some really useful insights into the Educational trends, i
 * It was very challenging to completely understand the data and to comprehend the relevance of each CSV file.
 * As the percentage of missing data was huge, it took a lot of effort to decide on the final data to keep for analysis.
 * Filtering out the best indicators from 3700 indicators to keep for analysis.
-* Deciding on the set of countries to work based on economy and geography.
+* Deciding on the set of countries to work based on respective economy and geography.
